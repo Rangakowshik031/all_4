@@ -1,0 +1,16 @@
+/* CoinFlip.css */
+.coin-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .coin-result {
+    margin-top: 20px;
+  }
+  
+  .coin-image {
+    width: 100px; /* Adjust the size as needed */
+    height: 100px;
+    margin-top: 10px;
+  }
+  
